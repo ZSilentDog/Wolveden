@@ -1,0 +1,162 @@
+* {
+    cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1003.cur), auto !important;
+}
+
+body{
+    color: #ffffff;
+    background: url('https://i.imgur.com/eRecd1k.jpg') center center fixed;
+    background-size: 100%;
+    font-family:emoji;
+}
+
+
+a:link{
+    color: #ffffff !important;
+}
+
+a:visited{
+    color: #ffffff !important;
+}
+
+a:hover{
+    color:#0e8939 !important;
+    text-decoration: underline;
+}
+ 
+.breadcrumb-item.active {
+    color: #ffffff;
+}
+
+.navbar-status,.navbar-expand {
+    background: #307247 !important;
+    color: #ffffff !important;
+}
+
+#sidebar .card{
+    background: rgba(61, 97, 79, 0.5);
+    border-bottom: 8px solid #ffffff45;
+}
+
+.alert-info {
+    color: #000000;
+    background-color: #accbbe75;
+    border-color: #15d458;
+}
+
+.alert-success {
+    color: #15d458;
+    background-color: #00000075;
+    border-color: #15d458;
+}
+
+#header .breadcrumb-nav{
+background: rgba(0, 0, 0, 0.7);
+}
+
+.bg-warning {
+    background-color: #53c087!important;
+}
+
+.bg-danger {
+    background-color: #45a35c!important;
+}
+
+.bg-info {
+    background-color: #297e58!important;
+}
+
+.bg-success {
+    background-color: #1b5839!important;
+}
+
+.bg-primary {
+    background-color: #2d6959!important;
+}
+
+.h1, h1 {
+    color: transparent;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 5.25rem;
+    -webkit-text-stroke:2px #15d458;
+}
+
+#main,#sidebar{
+    background:rgba(0, 0, 0, 0.6) 
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #ffffff4d;
+    border-color: #ffffff00 #ffffff00 #fff0;
+}
+.nav-tabs .nav-item {
+    margin-bottom: 0px;
+    background-color: #000000bf;
+}
+
+.nav-tabs .nav-link {
+    border: 0px solid transparent;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #ffffff4d;
+}
+
+.table th {
+    color: #29b45a;
+    background-color: #000000;
+}
+
+#main .card {
+    background: #666666;
+}
+
+.table .bottom, .table tfoot td {
+    color: #252525;
+    background-color: #000000;
+    text-align: center;
+}
+
+.bg-light,.bg-dark{
+    background:rgba(0, 0, 0,0.5) !important;
+}
+
+.btn-success {
+    background-color: #486c24;
+}
+
+.btn-info {
+    background-color: #004b6e;
+}
+
+.bg-bar-input {
+    background: #596a5f;
+}
+
+.btn-warning {
+    border-bottom-color: #c78e3c;
+    background-color: #c78e3c;
+}
+
+#chatMessagePinned.s-chat-message__pinned {
+    background: #3a9d75 url(//static.wolvden.com/images/layout/chat/sticky.png) no-repeat 10px 6px;
+    border-bottom-color: #000000!important;
+    color: #ffffff;
+}
+
+.s-chat-message_content>a:link{
+    color: #ffffff !important;
+}
+
+.s-chat-message_content>a:visited{
+    color: #ffffff !important;
+}
+.s-chat-message_content>a:hover{
+    color:#0e8939 !important;
+    text-decoration: underline;
+}
+
+.s-chat-message:nth-child(odd),.s-chat-message:nth-child(2n) {
+    background-color:rgba(0, 0, 0, 0.6);
+}
+
